@@ -1,3 +1,6 @@
+#Visual Studio Code preferences
+.vscode
+
 # Logs
 logs
 *.log
